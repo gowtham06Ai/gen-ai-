@@ -1,0 +1,4 @@
+my system is 8gb ram its can take much time llama3 model gen 
+
+i testes this code in my end its take a much amount time so i share this code in GitHub link you can check it now i will check with small sentances
+
